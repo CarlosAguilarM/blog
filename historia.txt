@@ -4,4 +4,4 @@ de que estoy haciendo
 
 las cosas bien.
 
-Y esto notara el cambio en git.
+Y esto notara el cambio en git-hub.
